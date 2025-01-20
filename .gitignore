@@ -1,0 +1,18 @@
+#ignore Matlab files
+*.asv
+
+#ignore jupyter notebook files
+.ipynb_checkpoints/
+__pycache__/
+
+
+
+
+#my test/repport directories
+battery/
+rap/
+#ignore data folder
+data/
+
+DataDrivenPredictionsBattery_Severson19.pdf
+FastCharge.zip
